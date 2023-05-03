@@ -7,9 +7,6 @@ The page is designed to be attractive and easy to navigate, using a responsive d
 
 This project is ideal for those who want to learn how to create a simple web page using HTML, CSS, and JavaScript, as well as those looking to improve their skills in web design and front-end development.
 
-
-
-
 ## Tech Stack
 
 * HTML
@@ -19,10 +16,8 @@ This project is ideal for those who want to learn how to create a simple web pag
 ## Run Locally
 To view the page, simply download the files from the repository and open the "index.html" file in your web browser. From there, you can navigate the page and use the contact form to place orders or make reservations.
 
-
-
-
 ## Contributing
-
 If you want to contribute to this project, we are open to your suggestions and improvements! You can submit a pull request with your changes or open an issue to discuss your ideas. Together, we can make this web page even better.
 
+## Demo
+https://dlozanoc82.github.io/landing-page-coffee-shops/
